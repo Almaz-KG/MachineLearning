@@ -1,4 +1,4 @@
-package multilayer_perseptron;
+package multilayer_perceptron;
 
 /**
  * Created by Almaz on 24.06.2015.
