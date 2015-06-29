@@ -1,4 +1,4 @@
-# Machine Learning 
+# Machine Learning Examples
 Machine Learning examples from Coursera [course](https://www.coursera.org/learn/machine-learning/outline)
 
 
