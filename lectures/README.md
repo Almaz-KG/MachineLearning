@@ -2,4 +2,11 @@
 
 #### Раздел машинное обучение
 - [Лекция 001. Введение в машинное обучение](lecture-001/)
+- [Лекция 002. Методы машинного обучения с учителем](lecture-002/)
 - IN_PROGRESS
+
+#### Интересные статьи
+- [Как я победил в конкурсе BigData от Beeline](habrahabr.ru/post/270367)
+- [Основы анализа данных на python с использованием pandas+sklearn](https://habr.com/post/202090/)
+- [Титаник на Kaggle: вы не дочитаете этот пост до конца](https://habr.com/company/mlclass/blog/270973/) 
+- [Kaggle и Titanic — еще одно решение задачи с помощью Python](https://habr.com/post/274171/)

@@ -140,9 +140,8 @@
 
 ### Домашнее задание
 
-- [ ] Зарегистрироваться в [Kaggle](https://www.kaggle.com/)
-- [ ] Зарегистрироваться в [Machine Learning Poligon](http://poligon.machinelearning.ru/DataSet/List.aspx)
-- [ ] Выполнить задачу про Классификацию Ирисок на Kaggle
+- [x] Зарегистрироваться в [Kaggle](https://www.kaggle.com/)
 - [ ] Выполнить задачу про Титаник на Kaggle
+- [ ] Выполнить задачу про Классификацию Ирисок на Kaggle
 - [ ] Выполнить задачу про распознаванию рукописных чисел
 
