@@ -131,12 +131,17 @@
     - байесовский информационный критерий = BIC;
     - метод релевантных векторов = RVM
     - байесовская сеть
-    
+
+#### Интересные статьи
+- [Титаник на Kaggle: вы не дочитаете этот пост до конца](https://habr.com/company/mlclass/blog/270973/) 
+- [Kaggle и Titanic — еще одно решение задачи с помощью Python](https://habr.com/post/274171/)
+
     
 ### Источники
 - [machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
 - [sim0nsays Лекция - 1 Введение](https://www.youtube.com/watch?v=riLQCudri7Q)
 - [Блог Open Data Science на Habrahabr](https://habr.com/company/ods/page6/)
+
 
 ### Домашнее задание
 
