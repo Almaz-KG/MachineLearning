@@ -133,5 +133,5 @@ CART (сокращение от Classification And Regression Tree, перево
 - Композиция (леса) деревьев
 
 ### Источники
-[Открытый курс машинного обучения. Тема 3. Классификация, деревья решений и метод ближайших соседей](https://habr.com/company/ods/blog/322534/)
-[Методы построения деревьев решений в задачах классификации в Data Mining](https://ami.nstu.ru/~vms/lecture/data_mining/trees.htm#_Toc123289771)
+- [Открытый курс машинного обучения. Тема 3. Классификация, деревья решений и метод ближайших соседей](https://habr.com/company/ods/blog/322534/)
+- [Методы построения деревьев решений в задачах классификации в Data Mining](https://ami.nstu.ru/~vms/lecture/data_mining/trees.htm#_Toc123289771)
